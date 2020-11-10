@@ -3,16 +3,13 @@ title: Rich Dad Poor Dad
 ---
 
 
-# Backlinks
-## [August 15th, 2020](<August 15th, 2020>)
-- [BookNotes](<BookNotes>) [Rich Dad Poor Dad](<Rich Dad Poor Dad>)
+- [BookNotes](/booknotes){: .internal-link} [Rich Dad Poor Dad](/rich-dad-poor-dad){: .internal-link}
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2Fy6hfErZksT.png?alt=media&token=757ec989-1fe7-4dca-9954-b50305682a7b)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2Fj93Y6ymweN.png?alt=media&token=76305d67-6f25-4dfd-9137-feb918334e2b)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FRRkUi1R3aR.png?alt=media&token=d3733c7a-b8a2-4621-9f5b-8eb090af429f)
 
 
-## [August 16th, 2020](<August 16th, 2020>)
-- [BookNotes](<BookNotes>) [Rich Dad Poor Dad](<Rich Dad Poor Dad>)
+- [BookNotes](/booknotes){: .internal-link} [Rich Dad Poor Dad](/rich-dad-poor-dad){: .internal-link}
     - The poor struggle to make the ends meet, the middle class works for money but can't handle it, the rich make the money work for them
     - You can buy assets or liabilities. The rich buy assets, the poor and middle-class mostly buy liabilities.
     - The assets are the things you own that work for you. It can be real-estate, products you sell, companies you own, etc.

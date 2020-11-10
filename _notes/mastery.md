@@ -3,9 +3,7 @@ title: Mastery
 ---
 
 
-# Backlinks
-## [October 10th, 2020](<October 10th, 2020>)
-- [BookNotes](<BookNotes>) [Mastery](<Mastery>)
+- [BookNotes](/booknotes){: .internal-link} [Mastery](/mastery){: .internal-link}
     - "In those days, for a program to be popular enough it 
 would have to be written for Windows. As consummate hackers, they loathed 
 everything about Windows and had never bothered to learn how to develop 

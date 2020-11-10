@@ -3,10 +3,8 @@ title: Checklist Manifesto
 ---
 
 
-# Backlinks
-## [September 30th, 2020](<September 30th, 2020>)
-- [BookNotes](<BookNotes>) [Checklist Manifesto](<Checklist Manifesto>)
-    - Started "The Checklist Manifesto" by [Atul Gawande](<Atul Gawande>) .
+- [BookNotes](/booknotes){: .internal-link} [Checklist Manifesto](/checklist-manifesto){: .internal-link}
+    - Started "The Checklist Manifesto" by [Atul Gawande](/atul-gawande){: .internal-link} .
 
 For such a boring title, it starts enormously exciting.
 

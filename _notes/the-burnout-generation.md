@@ -3,9 +3,7 @@ title: The Burnout Generation
 ---
 
 
-# Backlinks
-## [August 11th, 2020](<August 11th, 2020>)
-- [BookNotes](<BookNotes>) [The Burnout Generation](<The Burnout Generation>)
+- [BookNotes](/booknotes){: .internal-link} [The Burnout Generation](/the-burnout-generation){: .internal-link}
     - The book is very US-centric, for this reason alone it is not recommended for people living outside US.
     - With the way the US works, we see it's a perfect ground for burnout: student debt, expensive health care, crazy real estate prices.
     - The majority of people in the US have a lot of responsibilities due to the above facts, but very little control over how to approach them.
