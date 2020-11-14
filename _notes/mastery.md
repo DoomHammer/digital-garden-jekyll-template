@@ -3,6 +3,8 @@ title: Mastery
 ---
 
 
+
+
 - [BookNotes](/booknotes){: .internal-link} [Mastery](/mastery){: .internal-link}
     - "In those days, for a program to be popular enough it 
 would have to be written for Windows. As consummate hackers, they loathed 

@@ -10,6 +10,15 @@ title: 12 Rules for Life
 
 
 - [BookNotes](/booknotes){: .internal-link} [12 Rules for Life](/12-rules-for-life){: .internal-link}
+    - Some ideas presented in the book reminded me of [Antifragile](/antifragile){: .internal-link}
+    - There were also references to [Mastery](/mastery){: .internal-link} in a chapter about kids skateboarding. However, the references were rather shallow and interlaced with a lot of digressions.
+
+
+- [BookNotes](/booknotes){: .internal-link} [12 Rules for Life](/12-rules-for-life){: .internal-link}
+    - The author sees agreeableness as a vice.
+
+
+- [BookNotes](/booknotes){: .internal-link} [12 Rules for Life](/12-rules-for-life){: .internal-link}
     - In one of the chapters, the author mentions that children should not be bother while skating. This has something to do with mastery. But the topic of mastery is almost as soon forgotten as it has been mentioned. Instead, we get a lot of preaching on topics that are almost unrelated.
     - One of the subchapters is titled "Compassion as a Vice" and the author suggests that avoiding conflict is equal to allowing others walk on you which are hardly the same thing. 
     - The book is a mix of science, personal anecdotes, personal world-view of an author, and some wisdom. This reminds me of "[Antifragile](/antifragile){: .internal-link}". While I disliked the brutal and barbaric style of [Nassim Nicholas Taleb](/nassim-nicholas-taleb){: .internal-link}, I very much liked the content and I can recommend the book wholeheartadly. At the same time, the style presented by Jordan B. Peterson is much more pleasant and in almost all means better but at the same time, it just feels filled with fluff. Taleb comes straight to the point and the anecdotes make the point stronger, Peterson, from my perspective, rather dilutes the topic and most of the text is not meant to support the rules presented in the book.

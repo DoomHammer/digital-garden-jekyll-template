@@ -3,6 +3,8 @@ title: Checklist Manifesto
 ---
 
 
+
+
 - [BookNotes](/booknotes){: .internal-link} [Checklist Manifesto](/checklist-manifesto){: .internal-link}
     - Started "The Checklist Manifesto" by [Atul Gawande](/atul-gawande){: .internal-link} .
 

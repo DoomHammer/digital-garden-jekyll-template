@@ -19,8 +19,6 @@ title: It Doesn't Have to be Crazy at Work
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2Fs6vYpKXVav.png?alt=media&token=b65e38be-b587-4f3b-ae2a-c74b136ee951)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FZ8VG__bZkB.png?alt=media&token=091f8df4-94c7-45ef-b5a8-2bba5d96a400)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FXti0q2cCxa.png?alt=media&token=c71dc5cf-f237-4ec0-b741-411b07c3dd53)
-    - [Bit Better Book Club](/bit-better-book-club){: .internal-link} record a [Podcast](/podcast){: .internal-link} with [BookNotes](/booknotes){: .internal-link}
-    - [x] [Shopping](/shopping){: .internal-link} microphone upgrade
 
 
 - [BookNotes](/booknotes){: .internal-link} [It Doesn't Have to be Crazy at Work](/it-doesn't-have-to-be-crazy-at-work){: .internal-link} 6 week making sprints, two weeks for sharpening the saw

@@ -128,6 +128,15 @@ title: BookNotes
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FXj49c5h4yR.png?alt=media&token=66a05181-6e5a-4fa3-bb45-b14f4a7ea3a7)
 
 
+- [BookNotes](/booknotes){: .internal-link} [12 Rules for Life](/12-rules-for-life){: .internal-link}
+    - Some ideas presented in the book reminded me of [Antifragile](/antifragile){: .internal-link}
+    - There were also references to [Mastery](/mastery){: .internal-link} in a chapter about kids skateboarding. However, the references were rather shallow and interlaced with a lot of digressions.
+
+
+- [BookNotes](/booknotes){: .internal-link} [12 Rules for Life](/12-rules-for-life){: .internal-link}
+    - The author sees agreeableness as a vice.
+
+
 - [BookNotes](/booknotes){: .internal-link} [The Sandman](/the-sandman){: .internal-link}
     - Day 2 of listening to The Sandman Audio Drama.
 
@@ -269,8 +278,6 @@ If you get this far, ask yourself what your dreams are. Then, ask yourself how y
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2Fs6vYpKXVav.png?alt=media&token=b65e38be-b587-4f3b-ae2a-c74b136ee951)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FZ8VG__bZkB.png?alt=media&token=091f8df4-94c7-45ef-b5a8-2bba5d96a400)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FXti0q2cCxa.png?alt=media&token=c71dc5cf-f237-4ec0-b741-411b07c3dd53)
-    - [Bit Better Book Club](/bit-better-book-club){: .internal-link} record a [Podcast](/podcast){: .internal-link} with [BookNotes](/booknotes){: .internal-link}
-    - [x] [Shopping](/shopping){: .internal-link} microphone upgrade
 
 
 - [BookNotes](/booknotes){: .internal-link} [It Doesn't Have to be Crazy at Work](/it-doesn't-have-to-be-crazy-at-work){: .internal-link}:
@@ -284,8 +291,6 @@ If you get this far, ask yourself what your dreams are. Then, ask yourself how y
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2Fs6vYpKXVav.png?alt=media&token=b65e38be-b587-4f3b-ae2a-c74b136ee951)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FZ8VG__bZkB.png?alt=media&token=091f8df4-94c7-45ef-b5a8-2bba5d96a400)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2FXti0q2cCxa.png?alt=media&token=c71dc5cf-f237-4ec0-b741-411b07c3dd53)
-    - [Bit Better Book Club](/bit-better-book-club){: .internal-link} record a [Podcast](/podcast){: .internal-link} with [BookNotes](/booknotes){: .internal-link}
-    - [x] [Shopping](/shopping){: .internal-link} microphone upgrade
 
 
 - [diversity](/diversity){: .internal-link} [BookNotes](/booknotes){: .internal-link} [Blinkist](/blinkist){: .internal-link} [Investing with Impact](/investing-with-impact){: .internal-link}
@@ -387,7 +392,7 @@ If you get this far, ask yourself what your dreams are. Then, ask yourself how y
     - "Yes," Mustapha Mond was saying, "that's another item in the cost of stability. It isn't only art that's incompatible with happiness; it's also science. Science is dangerous; we have to keep it most carefully chained and muzzled."
     - The dialog between [John (the Savage)](/john-(the-savage)){: .internal-link} and [Mustapha Mond](/mustapha-mond){: .internal-link} reminds me of how [Everything is F*cked](/everything-is-f-cked){: .internal-link} mentioned that optimising for happiness instead of truth is a way towards disaster.
 - [BookNotes](/booknotes){: .internal-link} [Everything is F*cked](/everything-is-f-cked){: .internal-link}
-    - The book starts with a story not unlike [A Man's Search for Meaning](/a-man's-search-for-meaning){: .internal-link}. However, when it comes to the style, I much preferred [Victor L. Frankl](/victor-l.-frankl){: .internal-link}'s one.
+    - The begining of the book references concentration campswhich reminded me of [A Man's Search for Meaning](/a-man's-search-for-meaning){: .internal-link}. However, when it comes to style, I much preferred [Victor L. Frankl](/victor-l.-frankl){: .internal-link}'s one.
     - I don't know why the author insists on using a lot of expletives, but it doesn't help with his message. One of the observations is that instead of looking for truth, people are looking for happiness and convenience. Yet, the simplistic and vulgar style suits better those convenient messages, rather than philosophical thougts (to which this book aspires).
 
 
@@ -398,13 +403,17 @@ If you get this far, ask yourself what your dreams are. Then, ask yourself how y
     - "Yes," Mustapha Mond was saying, "that's another item in the cost of stability. It isn't only art that's incompatible with happiness; it's also science. Science is dangerous; we have to keep it most carefully chained and muzzled."
     - The dialog between [John (the Savage)](/john-(the-savage)){: .internal-link} and [Mustapha Mond](/mustapha-mond){: .internal-link} reminds me of how [Everything is F*cked](/everything-is-f-cked){: .internal-link} mentioned that optimising for happiness instead of truth is a way towards disaster.
 - [BookNotes](/booknotes){: .internal-link} [Everything is F*cked](/everything-is-f-cked){: .internal-link}
-    - The book starts with a story not unlike [A Man's Search for Meaning](/a-man's-search-for-meaning){: .internal-link}. However, when it comes to the style, I much preferred [Victor L. Frankl](/victor-l.-frankl){: .internal-link}'s one.
+    - The begining of the book references concentration campswhich reminded me of [A Man's Search for Meaning](/a-man's-search-for-meaning){: .internal-link}. However, when it comes to style, I much preferred [Victor L. Frankl](/victor-l.-frankl){: .internal-link}'s one.
     - I don't know why the author insists on using a lot of expletives, but it doesn't help with his message. One of the observations is that instead of looking for truth, people are looking for happiness and convenience. Yet, the simplistic and vulgar style suits better those convenient messages, rather than philosophical thougts (to which this book aspires).
 
 
 - [BookNotes](/booknotes){: .internal-link} [Brave New World](/brave-new-world){: .internal-link}
     - [Everything is F*cked](/everything-is-f-cked){: .internal-link} mentioned that [Freedom is not Free](/freedom-is-not-free){: .internal-link}. In a dialogue between [John (the Savage)](/john-(the-savage)){: .internal-link} and [Mustapha Mond](/mustapha-mond){: .internal-link}, John desires the freedom to be unhappy, the freedom to struggle, and the freedom to suffer. Citizens in the World State are protected from the unhappy as this may lead to instability.
-    - 
+
+
+- [BookNotes](/booknotes){: .internal-link} [Everything is F*cked](/everything-is-f-cked){: .internal-link}
+    - One of the last chapters references [Antifragile](/antifragile){: .internal-link} and contains advice that we should make ourselves antifragile to have better experience in this world.
+    - Somewhere at the beginning the author mentioned a thinking and feeling brain metaphor that I didn't quite like. I really loved the comparison of thinking brain to the elephant rider and the feeling brain to the elephant as presented in [The Happiness Hypothesis](/the-happiness-hypothesis){: .internal-link}. As it turns out, this book is also referenced a bit later in the same chapter.
 
 
 - [BookNotes](/booknotes){: .internal-link} [Everything is F*cked](/everything-is-f-cked){: .internal-link}

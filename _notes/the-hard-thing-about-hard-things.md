@@ -53,6 +53,8 @@ title: The Hard Thing About Hard Things
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDoomHammer%2Fzeih8zyKPo.png?alt=media&token=422c8e33-b7c6-4940-8041-e4eaf20311ac)
 
 
+
+
 - [BookNotes](/booknotes){: .internal-link} [The Hard Thing About Hard Things](/the-hard-thing-about-hard-things){: .internal-link}
     - One of the insights from the book was that you are not building company culture because it helps you when everything is going well. Company culture is there for when the things go wrong. When people work long hours and the competition seems to be crushing your company, great culture is what keeps people working for the company.
 

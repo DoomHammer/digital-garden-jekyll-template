@@ -13,6 +13,5 @@ title: Brave New World
 
 - [BookNotes](/booknotes){: .internal-link} [Brave New World](/brave-new-world){: .internal-link}
     - [Everything is F*cked](/everything-is-f-cked){: .internal-link} mentioned that [Freedom is not Free](/freedom-is-not-free){: .internal-link}. In a dialogue between [John (the Savage)](/john-(the-savage)){: .internal-link} and [Mustapha Mond](/mustapha-mond){: .internal-link}, John desires the freedom to be unhappy, the freedom to struggle, and the freedom to suffer. Citizens in the World State are protected from the unhappy as this may lead to instability.
-    - 
 
 
